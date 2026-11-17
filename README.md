@@ -44,7 +44,7 @@ Las personas con discapacidad visual enfrentan barreras en su movilidad cotidian
 
 ## Video Demostrativo
 El funcionamiento en tiempo real del prototipo físico se encuentra documentado en el siguiente enlace:
-https://youtu.be/zSXlMuvoWK0?si=9TgJoicFwYjgrgKr[cite: 5]
+https://youtu.be/pRIVPsAHXRo?feature=shared
 
 ## Integrantes
 * Lindarys Fragozo
